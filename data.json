@@ -1,0 +1,18 @@
+{
+  "e": {
+    "name": "Engineering Faculty",
+    "departments": ["Computer Science","ICT" ,"Electrical", "Mechanical", "Civil"]
+  },
+  "l": {
+    "name": "Life Science Faculty",
+    "departments": ["BGE", "Biotechnology", "Pharmacy"]
+  },
+  "s": {
+    "name": "Science Faculty",
+    "departments": ["Biology", "Physics", "Chemistry", "Mathematics"]
+  },
+  "a": {
+    "name": "Arts Faculty",
+    "departments": ["English", "History", "Philosophy"]
+  }
+}
